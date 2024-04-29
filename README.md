@@ -19,14 +19,4 @@
 <a href="https://linkedin.com/in/muhammad-18-gamal" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/muhammad18gamal" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Gamal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://t.me/muhammad18gamal" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Gamal-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad18Gamal&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad18gamal@gmail.com)](muhammad18gamal@gmail.com)
